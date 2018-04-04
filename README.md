@@ -1,4 +1,4 @@
-#Simple Blue
+# Simple Blue
 
 Here are some dotfiles.
 
